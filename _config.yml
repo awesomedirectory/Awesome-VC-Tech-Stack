@@ -1,0 +1,18 @@
+title: Awesome VC Tech Stack
+description: "The software stack used by modern venture capital firms — sourcing, diligence, portfolio support, and fund admin."
+url: "https://awesomedirectory.github.io"
+baseurl: "/Awesome-VC-Tech-Stack"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+twitter:
+  username: awesomedirectory
+  card: summary
+social:
+  name: Awesome Directory
+  links:
+    - https://github.com/awesomedirectory
+author:
+  name: Awesome Directory
+  url: https://github.com/awesomedirectory
+keywords: "vc tech stack, awesome list, curated tools, awesome vc tech stack"
