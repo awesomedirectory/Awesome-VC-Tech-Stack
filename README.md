@@ -53,12 +53,14 @@ This list is designed to help General Partners (GPs) build a modern efficient st
 
 ## Related Awesome Lists
 
-- [Awesome Founder Stack](https://awesomedirectory.github.io/awesome-founder-stack/) - Tools, services, and resources for startup founders.
-- [Awesome Genograms](https://awesomedirectory.github.io/awesome-genograms/) - Genogram builders, family tree libraries, and genealogy software.
-- [Awesome Healthcare Recruitment](https://awesomedirectory.github.io/Awesome-Healthcare-Recruitment/) - Tools and platforms for healthcare recruiting.
-- [Awesome Award Travel](https://awesomedirectory.github.io/awesome-award-travel/) - Award flight tools, points trackers, and credit card resources.
----
-
+- [Awesome Founder Stack](https://awesomedirectory.github.io/awesome-founder-stack/) - Tools, services, and SaaS for startup founders — incorporation, finance, hiring, and growth.
+- [Awesome Genograms](https://awesomedirectory.github.io/awesome-genograms/) - Genogram builders, family-tree visualization libraries, and genealogy software for therapists, social workers, and developers.
+- [Awesome Healthcare Recruitment](https://awesomedirectory.github.io/Awesome-Healthcare-Recruitment/) - Tools and platforms for sourcing, screening, and hiring physicians, nurses, and other clinical staff.
+- [Awesome Award Travel](https://awesomedirectory.github.io/awesome-award-travel/) - Tools for finding award flights, tracking points and miles, and maximizing credit card rewards.
+- [Awesome B2B Prospecting](https://awesomedirectory.github.io/awesome-b2b-prospecting/) - Contact databases, enrichment tools, sequencers, and deliverability platforms for B2B sales and growth teams.
+- [Awesome Invoicing](https://awesomedirectory.github.io/awesome-invoicing/) - Invoicing software, AR automation, expense trackers, and payment platforms for freelancers and small businesses.
+- [Awesome PR Tools](https://awesomedirectory.github.io/awesome-pr-tools/) - PR software, journalist databases, media monitoring tools, and outreach platforms for founders and comms teams.
+- [Awesome Tech Sales](https://awesomedirectory.github.io/awesome-tech-sales/) - Tools, contact databases, and resources for selling SaaS and infrastructure to engineering, IT, and tech-leadership buyers.
 ## Contributing
 
 We welcome contributions from the community! If you use a tool that helps run your fund, please submit a Pull Request.
