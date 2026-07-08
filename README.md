@@ -28,6 +28,7 @@ This list is designed to help General Partners (GPs) build a modern efficient st
 *Tools for GPs to raise capital and manage Limited Partner relationships.*
 
 * **[LPBacked.com](https://lpbacked.com)** - Intelligence for identifying and connecting with active Limited Partners (LPs) and Family Offices.
+* **[FindLPs.com](https://www.findlps.com)** - Searchable database of 25,850+ limited partners and family offices across 139 countries, with verified direct contacts for fund managers raising capital.
 * [DocSend](https://www.docsend.com) - Secure document sharing for pitch decks and LP updates.
 * [Mercury](https://mercury.com) - Banking built for startups and venture funds.
 * [Passthrough](https://www.passthrough.com) - Automated subscription documents and fund closing software.
