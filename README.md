@@ -22,6 +22,7 @@ This list is designed to help General Partners (GPs) build a modern efficient st
 * [SourceScrub](https://www.sourcescrub.com) - Deal origination platform for private equity and M&A.
 * [Harmonic](https://harmonic.ai) - Database of startups and tech talent for investors.
 * [Specter](https://specter.io) - AI-driven talent and company identification for early-stage investors.
+* [StackWho](https://stackwho.com) - Tech-stack lookup across 689,000+ companies — useful for technographic sourcing and technical due diligence.
 
 ## Fundraising & LP Relations
 *Tools for GPs to raise capital and manage Limited Partner relationships.*
