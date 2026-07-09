@@ -37,6 +37,7 @@ This list is designed to help General Partners (GPs) build a modern efficient st
 *Resources for finding co-investors, angels, and syndicate partners.*
 
 * **[AngelBacked.co](https://angelbacked.co)** - Track angel activity to find co-investment opportunities and emerging scout networks.
+* [VCSift](https://vcsift.com) - Searchable database of 410,000+ angels, VCs, and family offices with verified emails — useful for mapping the co-investor landscape around a round, stage, or sector.
 * [Sydecar](https://www.sydecar.io) - Frictionless deal execution platform for syndicates and SPVs.
 * [Vauban](https://www.vauban.io) - Platform to launch and manage SPVs and Venture Funds online.
 * [AngelList Stack](https://www.angellist.com/stack) - Suite of tools for managing investments and roll-up vehicles.
