@@ -64,6 +64,7 @@ This list is designed to help General Partners (GPs) build a modern efficient st
 - [Awesome Invoicing](https://awesomedirectory.github.io/awesome-invoicing/) - Invoicing software, AR automation, expense trackers, and payment platforms for freelancers and small businesses.
 - [Awesome PR Tools](https://awesomedirectory.github.io/awesome-pr-tools/) - PR software, journalist databases, media monitoring tools, and outreach platforms for founders and comms teams.
 - [Awesome Tech Sales](https://awesomedirectory.github.io/awesome-tech-sales/) - Tools, contact databases, and resources for selling SaaS and infrastructure to engineering, IT, and tech-leadership buyers.
+- [Awesome Private Practice](https://awesomedirectory.github.io/awesome-private-practice/) - Practice management, billing, scheduling, documentation, and marketing tools for therapists, counselors, and small clinical practices.
 ## Contributing
 
 We welcome contributions from the community! If you use a tool that helps run your fund, please submit a Pull Request.
