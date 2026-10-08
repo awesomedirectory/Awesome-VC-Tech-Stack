@@ -56,6 +56,7 @@ This list is designed to help General Partners (GPs) build a modern efficient st
 
 ## Related Awesome Lists
 
+- [Awesome Startup Jobs](https://awesomedirectory.github.io/awesome-startup-jobs/) - Job boards, funding trackers, salary data, and research tools for finding and vetting jobs at venture-backed startups.
 - [Awesome Founder Stack](https://awesomedirectory.github.io/awesome-founder-stack/) - Tools, services, and SaaS for startup founders — incorporation, finance, hiring, and growth.
 - [Awesome Genograms](https://awesomedirectory.github.io/awesome-genograms/) - Genogram builders, family-tree visualization libraries, and genealogy software for therapists, social workers, and developers.
 - [Awesome Healthcare Recruitment](https://awesomedirectory.github.io/Awesome-Healthcare-Recruitment/) - Tools and platforms for sourcing, screening, and hiring physicians, nurses, and other clinical staff.
