@@ -32,6 +32,7 @@ This list is designed to help General Partners (GPs) build a modern efficient st
 * [DocSend](https://www.docsend.com) - Secure document sharing for pitch decks and LP updates.
 * [Mercury](https://mercury.com) - Banking built for startups and venture funds.
 * [Passthrough](https://www.passthrough.com) - Automated subscription documents and fund closing software.
+* [Peony](https://www.peony.ink) - Virtual data room for fund and LP data rooms with page-level analytics and unlimited free viewers.
 
 ## Co-Investment & Syndicates
 *Resources for finding co-investors, angels, and syndicate partners.*
