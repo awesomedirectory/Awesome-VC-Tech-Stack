@@ -50,6 +50,7 @@ This list is designed to help General Partners (GPs) build a modern efficient st
 ## CRM & Relationship Management
 * [Affinity](https://affinity.co) - Relationship intelligence CRM used heavily by VCs to manage deal flow.
 * [Attio](https://attio.com) - Fully customizable CRM for modern startups and funds.
+* [Historical Snapshots](https://ecosystem.hubspot.com/marketplace/listing/historical-snapshots-weekly-digest) - Point-in-time pipeline tracking and weekly change digests for deal teams running HubSpot CRM.
 * [Pipedrive](https://www.pipedrive.com) - Sales CRM often adapted for deal flow tracking.
 
 ---
